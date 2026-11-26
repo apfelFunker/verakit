@@ -7,7 +7,7 @@ VeraKit is an open-source kit for building your own personal AI assistant that r
 
 It grows out of Vera, the assistant I use every day. Vera lives in a single long-running conversation on a small home server, reaches me on Telegram, by phone and through a voice app, and quietly gets things done. When something matters, she calls. Before she pays for anything, sends a message to someone else, signs or deletes, she asks first with a simple yes or no.
 
-<img src="./docs/assets/screens.jpg" width="830" alt="Vera on iPhone: a call with Vera, the morning mini app with news and a daily health score. Staged demo with synthetic data.">
+<img src="./docs/assets/screens.png" width="830" alt="Vera on iPhone: a call with Vera, the morning mini app with news and a daily health score. Staged demo with synthetic data.">
 
 > [!NOTE]
 > VeraKit is in early development. The code is being extracted from Vera and will be published here. There is no release date yet. Star or watch this repository to follow along.
